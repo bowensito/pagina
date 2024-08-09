@@ -1,0 +1,12 @@
+/*todas las etiquetas section*/
+section{
+    background-color: gold;
+}
+/*ID*/
+#section-1{
+    backdrop-filter: tomato;
+
+}
+.secciones{
+    background-color: yellowgreen;
+}
